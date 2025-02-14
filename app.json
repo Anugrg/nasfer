@@ -1,0 +1,27 @@
+{
+    "CLIENT_MACHINE_NAME": "python-hero",
+    "USE_SAMBA": false,
+    "NAS_SERVERS": 
+        [
+            {
+                "SERVER_NAME": "NAS823EB7",
+                "USER_ID": "fersmek",
+                "SERVICE_NAME" : "fersmek",
+                "PASSWORD": "fersmek654",
+                "NAS_IP": "192.168.50.100",
+                "NAS_PORT": "445",
+                "NAS_DRIVE": "\\\\NAS823EB7\\Fersmek",
+                "SRC_FOLDER": "D:\\FTP\\lenovo"
+            },
+            {
+                "SERVER_NAME": "NAS61B929",
+                "USER_ID": "fersmek",
+                "SERVICE_NAME" : "fersmek",
+                "PASSWORD": "fersmek654",
+                "NAS_IP": "192.168.1.122",
+                "NAS_PORT": "445",
+                "NAS_DRIVE": "\\\\NAS61B929\\Fersmek",
+                "SRC_FOLDER": "D:\\FTP\\camera1"
+            }
+        ]
+}
