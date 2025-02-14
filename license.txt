@@ -1,0 +1,47 @@
+**[Your Software Name] License Agreement**
+
+**1. Grant of License**
+
+This License Agreement ("Agreement") is made and entered into as of 2025/02/14 by and between [Your Name/Company Name] ("Licensor") and the individual or entity using the software ("Licensee").
+
+Licensor grants Licensee a non-exclusive, non-transferable license to use the software named "[Your Software Name]" ("Software") solely for [Specify usage, e.g., internal business purposes, personal use].
+
+**2. Restrictions**
+
+Licensee may not:
+
+* Modify, adapt, or create derivative works of the Software.
+* Reverse engineer, decompile, or disassemble the Software.
+* Distribute, sublicense, or rent the Software to any third party.
+* Use the Software for any illegal or unauthorized purpose.
+
+**3. Disclaimer of Warranty**
+
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. Licensor does not warrant that the Software will be error-free or meet Licensee's requirements.
+
+**4. Limitation of Liability**
+
+In no event shall Licensor be liable for any damages whatsoever, including without limitation, direct, indirect, incidental, special, consequential, or punitive damages, arising out of or in connection with the use or inability to use the Software.
+
+**5. Termination**
+
+This Agreement shall automatically terminate upon Licensee's breach of any of its terms.
+
+**6. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+
+**7. Entire Agreement**
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
+
+**8. Severability**
+
+If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall remain in full force and effect.
+
+**9. Acceptance**
+
+By using the Software, Licensee acknowledges that they have read, understood, and agree to be bound by the terms and conditions of this Agreement.
+
+Anubinda Gurung,
+Fersmek Co., LTD.
