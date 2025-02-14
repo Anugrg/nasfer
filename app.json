@@ -1,6 +1,7 @@
 {
     "CLIENT_MACHINE_NAME": "python-hero",
-    "USE_SAMBA": false,
+    "USE_SAMBA": true,
+    "INTERVAL": 15,
     "NAS_SERVERS": 
         [
             {

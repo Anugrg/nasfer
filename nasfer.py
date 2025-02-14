@@ -94,14 +94,15 @@ def check_latest_file(conf):
 
 
 
-async def run(conf):
+async def run(settings : json):
     print('Starting process')
-    conf = ConfigComp(_settings)
+    conf = ConfigComp(settings)
+    interval = conf.get('INTERVAL')
     while True:
         try:
             check_latest_file(conf)
-            print('Sleeping for 30 secs')
-            await asyncio.sleep(30)
+            print(f'Sleeping for {interval} secs')
+            await asyncio.sleep(interval)
         except KeyboardInterrupt:
             print('Stopped by user')
             break
