@@ -166,7 +166,6 @@ async def run2(settings):
         t.start()
 
     files = [nas_info['SRC_FOLDER'] for nas_info in conf.get('NAS_SERVERS')]
- 
     while True:
         async for changes in awatch(*files):
             for change in changes:
