@@ -18,34 +18,20 @@ from smb.SMBConnection import SMBConnection
 # client_machine_name can be an arbitary ASCII string
 # server_name should match the remote machine name, or else the connection will be rejected
 
+
 class CopyThread(Thread):
 
-    def __init__(self, queue):
+    def __init__(self, queue, _func):
         Thread.__init__(self)
         print('init thread')
         self.queue = queue
+        self._func = _func
 
     def run(self):
         while True:
-            _file, _func, target, client_name = self.queue.get()
-            print(f'Moving file {_file} --- {dt.now()}')
-            _func(target, client_name, _file)
-            print(f'Completed --- {dt.now()}')
-            self.queue.task_done()
-
-
-class CopyThread2(Thread):
-
-    def __init__(self, queue):
-        Thread.__init__(self)
-        print('init thread')
-        self.queue = queue
-
-    def run(self):
-        while True:
-            _file, _func, target = self.queue.get()
-            print(f'Moving file {_file} --- {dt.now()}')
-            _func(target, _file)
+            data = self.queue.get()
+            print(f'Moving file {data[0]} --- {dt.now()}')
+            self._func(*data)
             print(f'Completed --- {dt.now()}')
             self.queue.task_done()
 
@@ -58,19 +44,24 @@ class ConfigComp:
         return self.config.get(param)
 
 
-def transfer_file_samba_style(target, client_machine_name, file):
+def transfer_file_samba_style(*args):
+    file = args[0]
+    target = args[1]
+    client_machine_name = args[2]
+
     userID = target['USER_ID']
     password = target['PASSWORD']
     server_name = target['SERVER_NAME']
     service_name = target['SERVICE_NAME']
     nas_ip = target['NAS_IP']
     nas_port = target['NAS_PORT']
-    src_folder = target['SRC_FOLDER']
+
+    new_name = uuid.uuid4()
     try:
         conn = SMBConnection(userID, password, client_machine_name, server_name, use_ntlm_v2=True)
         assert conn.connect(nas_ip, nas_port)
-        with open(f'{src_folder}/{file}', 'rb') as f:
-            conn.storeFile(service_name, f'/{file}', f, show_progress=True)
+        with open(f'{file}', 'rb') as f:
+            conn.storeFile(service_name, f'/{str(new_name)}.png', f, show_progress=True)
 
     except Exception as e:
         print(e)
@@ -83,7 +74,10 @@ def transfer_file_samba_style(target, client_machine_name, file):
     return True
 
 
-def transfer_to_network_drive(target, file):
+def transfer_to_network_drive(*args):
+    file = args[0]
+    target = args[1]
+    
     src_folder = target['SRC_FOLDER']
     #shutil.copy2(f'{src_folder}/{file}', target['NAS_DRIVE'])
     shutil.copy2(file, target['NAS_DRIVE'])
@@ -149,19 +143,12 @@ async def run2(settings):
     conf = ConfigComp(settings)
     queue = Queue()
 
-    if conf.get('USE_SAMBA'):
-        _func = transfer_file_samba_style
-        _thread = CopyThread
-        print(_thread)
-        print(_func)
-    else:
-        _func = transfer_to_network_drive
-        _thread = CopyThread2
-        print(_thread)
-        print(_func)
-
     for _ in range(2):
-        t = _thread(queue)
+        if conf.get('USE_SAMBA'):
+            t = CopyThread(queue, transfer_file_samba_style)
+        else:
+            t = CopyThread(queue, transfer_to_network_drive)
+
         t.daemon = True
         t.start()
 
@@ -177,10 +164,10 @@ async def run2(settings):
                         if target['SRC_FOLDER'] == str(Path(change[1]).parent):
                             if conf.get('USE_SAMBA'):
                                 print('using samba')
-                                queue.put((change[1], _func, target, conf.get('CLIENT_MACHINE_NAME')))
+                                queue.put((change[1], target, conf.get('CLIENT_MACHINE_NAME')))
                             else:
                                 print('normal copy')
-                                queue.put((change[1], _func, target))
+                                queue.put((change[1], target))
 
         queue.join()
 
