@@ -8,7 +8,7 @@ Licensor grants Licensee a non-exclusive, non-transferable license to use the so
 
 **2. Restrictions**
 
-Licensee may not:
+Licensee may not :
 
 * Modify, adapt, or create derivative works of the Software.
 * Reverse engineer, decompile, or disassemble the Software.
