@@ -2905,3 +2905,1342 @@ SMB Data Packet (hex):
 b'fe534d4240000000350000c00500010001000000000000000c0000000000000070b00000450218bd7546f23a0000000000000000000000000000000000000000090000000000000000'
 
 2025-02-19 14:54 - INFO - Completed --- 2025-02-19 14:54:32.539507
+2025-02-19 15:18 - INFO - Starting program
+2025-02-19 15:18 - INFO - Running file check and transfer process
+2025-02-19 15:18 - DEBUG - Reading config file ok
+2025-02-19 15:18 - DEBUG - Starting thread ok
+2025-02-19 15:18 - DEBUG - Starting thread ok
+2025-02-19 15:18 - INFO - New file(s) found
+2025-02-19 15:18 - INFO - File in D:\FTP\camera1\2 - Copy.txt
+2025-02-19 15:18 - INFO - File in D:\FTP\camera1\2 - Copy.txt
+2025-02-19 15:18 - INFO - File in D:\FTP\camera1\2 - Copy.txt
+2025-02-19 15:18 - INFO - Using Samba protocol
+2025-02-19 15:18 - INFO - Moving file D:\FTP\camera1\2 - Copy.txt --- 2025-02-19 15:18:09.750860
+2025-02-19 15:18 - INFO - Completed --- 2025-02-19 15:18:10.172696
+2025-02-19 16:01 - INFO - Starting program
+2025-02-19 16:01 - INFO - Running file check and transfer process
+2025-02-19 16:01 - DEBUG - Reading config file ok
+2025-02-19 16:01 - DEBUG - Starting thread ok
+2025-02-19 16:01 - DEBUG - Starting thread ok
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\9 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\9 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\9 - Copy.txt
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\9 - Copy.txt --- 2025-02-19 16:01:47.469291
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\11 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\11 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\11 - Copy.txt
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\11 - Copy.txt --- 2025-02-19 16:01:47.470290
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\1 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\1 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\1 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\5 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\5 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\5 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\12 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\12 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\12 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\8 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\8 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\8 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\3 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\3 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\3 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\6 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\6 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\6 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\7 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\7 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\7 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\2 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\2 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\2 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\4 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\4 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\4 - Copy.txt
+2025-02-19 16:01 - INFO - New file(s) found
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\10 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\10 - Copy.txt
+2025-02-19 16:01 - INFO - File in D:\FTP\camera3\10 - Copy.txt
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 4054710961 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c160000b1faadf1b0ae9d4800000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 4054710961 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c160000b1faadf1b0ae9d480000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:47.931817
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\1 - Copy.txt --- 2025-02-19 16:01:47.931817
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:47.934335
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\5 - Copy.txt --- 2025-02-19 16:01:47.935334
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 2359929196 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c1600006ca9a98cc8aefa7000000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 2359929196 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c1600006ca9a98cc8aefa700000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 13215856 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c16000070a8c900e97918b000000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 13215856 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c16000070a8c900e97918b00000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:48.405850
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:48.405850
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\12 - Copy.txt --- 2025-02-19 16:01:48.405850
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\8 - Copy.txt --- 2025-02-19 16:01:48.405850
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 2930989886 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c1600003e5bb3ae9b69464900000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 2930989886 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c1600003e5bb3ae9b6946490000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 3670557114 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c160000ba41c8dabc3ec05400000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 3670557114 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c160000ba41c8dabc3ec0540000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:48.855438
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:48.855438
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\3 - Copy.txt --- 2025-02-19 16:01:48.856583
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\6 - Copy.txt --- 2025-02-19 16:01:48.856583
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 3574587255 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c16000077df0fd57686568300000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 3574587255 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c16000077df0fd5768656830000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 4062640321 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c160000c1f826f26794ba9200000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 4062640321 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c160000c1f826f26794ba920000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:49.286464
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\7 - Copy.txt --- 2025-02-19 16:01:49.287459
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:49.291680
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\2 - Copy.txt --- 2025-02-19 16:01:49.291680
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 3891862950 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c160000a61df9e705e1d95300000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 3891862950 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c160000a61df9e705e1d9530000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 3849242334 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c160000dec66ee5782e297800000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 3849242334 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c160000dec66ee5782e29780000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:49.719453
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:49.719453
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\4 - Copy.txt --- 2025-02-19 16:01:49.719453
+2025-02-19 16:01 - INFO - Moving file D:\FTP\camera3\10 - Copy.txt --- 2025-02-19 16:01:49.719453
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 3579670651 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c1600007b705dd5fd8b6ff200000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 3579670651 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c1600007b705dd5fd8b6ff20000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 5788 
+MID: 12 
+TID: 1027679868 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c000000000000009c1600007c26413d045d820500000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 5788 
+MID: 12 
+TID: 1027679868 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c000000000000009c1600007c26413d045d82050000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:50.157488
+2025-02-19 16:01 - INFO - Completed --- 2025-02-19 16:01:50.162859
+2025-02-19 16:03 - INFO - Starting program
+2025-02-19 16:03 - INFO - Running file check and transfer process
+2025-02-19 16:03 - DEBUG - Reading config file ok
+2025-02-19 16:03 - DEBUG - Starting thread ok
+2025-02-19 16:03 - DEBUG - Starting thread ok
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 4068138173 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000bddc7af21ae01cd600000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 4068138173 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000bddc7af21ae01cd60000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:44.697018
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:44.697018
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 1546049710 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000aed8265cbc039c2f00000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 1546049710 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000aed8265cbc039c2f0000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 2738505429 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000d5463aa3ae72cdd600000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 2738505429 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000d5463aa3ae72cdd60000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:45.132718
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:45.136808
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 2776071137 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000e17b77a5ef10042800000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 2776071137 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000e17b77a5ef1004280000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 3963300354 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000022a3becce8a0cab00000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 3963300354 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000022a3becce8a0cab0000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:45.575905
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:45.580001
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 2316737804 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f00000c9d168a144099a800000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 2316737804 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f00000c9d168a144099a80000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 3107476781 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f00002d5538b983e55f4700000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 3107476781 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f00002d5538b983e55f470000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:46.038792
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:46.048745
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 2652272633 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000f977169e0ab9c7f000000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 2652272633 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000f977169e0ab9c7f00000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:46.477206
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 3265551289 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000b95ba4c204ecb81400000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 3265551289 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000b95ba4c204ecb8140000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:46.501921
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 772351543 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f00003726092e53e8b6ef00000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 772351543 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f00003726092e53e8b6ef0000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:46.918560
+2025-02-19 16:03 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 4024 
+MID: 12 
+TID: 993886911 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000b80f0000bf823d3b2cd15ba700000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 4024 
+MID: 12 
+TID: 993886911 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000b80f0000bf823d3b2cd15ba70000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:03 - INFO - Transfer completed --- 2025-02-19 16:03:46.956601
+2025-02-19 16:06 - INFO - Starting program
+2025-02-19 16:06 - INFO - Running file check and transfer process
+2025-02-19 16:06 - DEBUG - Reading config file ok
+2025-02-19 16:06 - DEBUG - Starting thread ok
+2025-02-19 16:06 - DEBUG - Starting thread ok
+2025-02-19 16:06 - INFO - Starting program
+2025-02-19 16:06 - INFO - Waiting for new file event...
+2025-02-19 16:06 - DEBUG - Reading config file ok
+2025-02-19 16:06 - DEBUG - Starting thread ok
+2025-02-19 16:06 - DEBUG - Starting thread ok
+2025-02-19 16:09 - INFO - Starting program
+2025-02-19 16:09 - INFO - Listening for new file event...
+2025-02-19 16:09 - DEBUG - Reading config file ok
+2025-02-19 16:09 - DEBUG - Starting thread ok
+2025-02-19 16:09 - DEBUG - Starting thread ok
+2025-02-19 16:10 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_19\16 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 20016 
+MID: 12 
+TID: 423251189 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000304e0000f54c3a198e15a77b00000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00310039005c00310036000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 20016 
+MID: 12 
+TID: 423251189 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000304e0000f54c3a198e15a77b0000000000000000000000000000000000000000090000000000000000'
+
+2025-02-19 16:10 - INFO - Transfer completed --- 2025-02-19 16:10:24.999158
+2025-02-20 13:23 - INFO - Starting program
+2025-02-20 13:23 - INFO - Listening for new file event...
+2025-02-20 13:23 - DEBUG - Reading config file ok
+2025-02-20 13:23 - DEBUG - Starting thread ok
+2025-02-20 13:23 - DEBUG - Starting thread ok
+2025-02-20 13:23 - INFO - Transfer completed --- 2025-02-20 13:23:41.818145
+2025-02-20 13:25 - INFO - Starting program
+2025-02-20 13:25 - INFO - Listening for new file event...
+2025-02-20 13:25 - DEBUG - Reading config file ok
+2025-02-20 13:25 - DEBUG - Starting thread ok
+2025-02-20 13:25 - DEBUG - Starting thread ok
+2025-02-20 13:25 - INFO - Starting program
+2025-02-20 13:25 - INFO - Listening for new file event...
+2025-02-20 13:25 - DEBUG - Reading config file ok
+2025-02-20 13:25 - DEBUG - Starting thread ok
+2025-02-20 13:25 - DEBUG - Starting thread ok
+2025-02-20 13:26 - ERROR - Failed to create directory
+Traceback (most recent call last):
+  File "D:\pyscripts\samba-tests\nasfer.py", line 92, in create_dir_nas
+    conn.createDirectory(service_name, f'/{dir}')
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 502, in createDirectory
+    self._pollForNetBIOSPacket(timeout)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 649, in _pollForNetBIOSPacket
+    self.feedData(data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 54, in feedData
+    self._processNMBSessionPacket(self.data_nmb)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\nmb\base.py", line 75, in _processNMBSessionPacket
+    self.onNMBSessionMessage(packet.flags, packet.data)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 150, in onNMBSessionMessage
+    if self._updateState(self.smb_message):
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 344, in _updateState_SMB2
+    req.callback(message, **req.kwargs)
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\base.py", line 1459, in createCB
+    errback(OperationFailure('Failed to create directory %s on %s: Create failed' % ( path, service_name ), messages_history))
+  File "D:\pyscripts\samba-tests\samba_env\lib\site-packages\smb\SMBConnection.py", line 496, in eb
+    raise failure
+smb.smb_structs.OperationFailure: Failed to create directory 2025_02_20\13 on fersmek: Create failed
+==================== SMB Message 0 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0x00000000 
+Flags: 0x00 
+PID: 11160 
+MID: 12 
+TID: 3216964665 
+Data: 176 bytes 
+b'3900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00320030005c00310033000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000000000000500000000000000000000000c00000000000000982b000039fcbebf973ed17e00000000000000000000000000000000000000003900000002000000000000000000000000000000000000009b0113000000000000000000020000002100000078001a00980000005800000032003000320035005f00300032005f00320030005c00310033000000000000002800000010000400000018001000000044486e510000000000000000000000000000000000000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000'
+==================== SMB Message 1 ====================
+SMB Header:
+-----------
+Command: 0x05 (SMB2_COM_CREATE) 
+Status: 0xC0000035 
+Flags: 0x01 
+PID: 11160 
+MID: 12 
+TID: 3216964665 
+Data: 9 bytes 
+b'090000000000000000' 
+SMB Data Packet (hex):
+----------------------
+b'fe534d4240000000350000c00500010001000000000000000c00000000000000982b000039fcbebf973ed17e0000000000000000000000000000000000000000090000000000000000'
+
+2025-02-20 13:26 - INFO - Transfer completed --- 2025-02-20 13:26:05.118032

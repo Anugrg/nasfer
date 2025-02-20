@@ -1,10 +1,10 @@
-**[Your Software Name] License Agreement**
+**Nasfer License Agreement**
 
 **1. Grant of License**
 
-This License Agreement ("Agreement") is made and entered into as of 2025/02/14 by and between [Your Name/Company Name] ("Licensor") and the individual or entity using the software ("Licensee").
+This License Agreement ("Agreement") is made and entered into as of 2025/02/14 by and between Fersmek ("Licensor") and the individual or entity using the software ("Licensee").
 
-Licensor grants Licensee a non-exclusive, non-transferable license to use the software named "[Your Software Name]" ("Software") solely for [Specify usage, e.g., internal business purposes, personal use].
+Licensor grants Licensee a non-exclusive, non-transferable license to use the software named "Nasfer" ("Software") solely for Hakuto project.
 
 **2. Restrictions**
 

@@ -62,9 +62,9 @@ class CopyThread(Thread):
     def run(self):
         while True:
             data = self.queue.get()
-            logger.info(f'Moving file {data[0]} --- {dt.now()}')
+
             self._func(*data)
-            logger.info(f'Completed --- {dt.now()}')
+            logger.info(f'Transfer completed --- {dt.now()}')
             self.queue.task_done()
 
 
@@ -214,7 +214,7 @@ def only_added(change: Change, path: str) -> bool:
 
 
 async def run2(settings):
-    logger.info('Running file check and transfer process')
+    logger.info('Listening for new file event...')
     conf = ConfigComp(settings)
     queue = Queue()
     try:
@@ -230,21 +230,22 @@ async def run2(settings):
         logger.error("Thread creation failed", exc_info=True)
         
 
-    files = [nas_info['SRC_FOLDER'] for nas_info in conf.get('NAS_SERVERS')]
+    files = [nas_info['SRC_FOLDER'] for nas_info in conf.get('NAS_SERVERS')]    
+
     try:
         while True:
             async for changes in awatch(*files, watch_filter=only_added):
                 for change in changes:
-                    logger.info('New file(s) found')
+  
                     for target in conf.get('NAS_SERVERS'):
 
-                        logger.info(f'File in {str(Path(change[1]))}')
                         if target.get('CAM') in str(Path(change[1]).parent):
+                            
                             if conf.get('USE_SAMBA'):
-                                logger.info("Using Samba protocol")
+
                                 queue.put((change[1], target, conf.get('CLIENT_MACHINE_NAME')))
                             else:
-                                logger.info("Using file transfer to network drive method")
+
                                 queue.put((change[1], target))
 
 
