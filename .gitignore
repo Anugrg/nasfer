@@ -3,3 +3,4 @@ dist/
 dist2/
 samba_env/
 build/
+*.log
